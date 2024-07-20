@@ -3,7 +3,7 @@ function Footer(){
         <>
         <section id="page4">
             <div className="footerWrapper">
-                <form action="https://formsubmit.co/akmalmorsyy@gmail.com" method="POST">
+                <form action="https://formsubmit.co/ahmedgamal178@gmail.com" method="POST">
                     <input type="text" name="name" required placeholder="Name"/>
                     <input type="email" name="email" required placeholder="Email"/>
                     <input type="text" name="subject" required placeholder="Message"/>
