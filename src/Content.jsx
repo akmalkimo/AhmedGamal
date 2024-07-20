@@ -10,7 +10,7 @@ function Content(){
             <Page2 />
             <h2 className="career textCentered" id="page3">My Career</h2>
             <Page3 />  
-            <h2 className="contact textCentered" id='page4'>Contact Me</h2>
+            <h2 className="contact textCentered" id='page4'>Contact Me via Email</h2>
         </>
     )
 }

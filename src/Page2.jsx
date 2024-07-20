@@ -6,16 +6,16 @@ function Page2(){
                 <article className="aboutWrapper">
                     <div className="pWrapper">
                         <div>
-                            <h3>Personal Life</h3>
-                            <p>My name is Ahmed Gamal Sayed, 45 years old, from Egypt, and I am a proud Father of two.</p>
+                            <h3>Personal Information</h3>
+                            <p>Ahmed Gamal Sayed, 42 years old, from Egypt, Location: Riyadh.</p>
                         </div>
                         <div>
                             <h3>Education</h3>
-                            <p>I went to the University of Beni-suef and graduated in 2005 with a Bachelor's in Accounting.</p>
+                            <p>Bachelor of commerce - Beni Seuf University - Accounting department 2005.</p>
                         </div>
                         <div>
                             <h3>Experience</h3>
-                            <p>I have 18 Years of Experience in accounting inside and outside of Egypt.</p>
+                            <p>18 years of experience in preparing, analyzing financial statements in accordance with IFRS and prepare VAT reporting requirements.</p>
                         </div>
                     </div>
                     <img src="/AhmedGamal/baba2.png" alt="A picture of me" className="baba2"/>
