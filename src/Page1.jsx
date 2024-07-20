@@ -7,7 +7,7 @@ function Page1(){
                 <div className="introCard">
                     <img src="/AhmedGamal/baba.png" alt="profile-photo" className="baba"/>
                     <div className="imgTextWrapper">
-                        <h1 className="intro textCentered">Cheif Accountant - CertIFR</h1>
+                        <h1 className="intro textCentered">Cheif Accountant (CertIFR)</h1>
                         <div className="bttnWrapper">
                             <a href="#page4">
                                 <button className="cta">Get in Touch</button>
