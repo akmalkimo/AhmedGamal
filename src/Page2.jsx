@@ -18,7 +18,7 @@ function Page2(){
                             <p>I have 18 Years of Experience in accounting inside and outside of Egypt.</p>
                         </div>
                     </div>
-                    <img src="/ahmeds-portfolio/baba2.png" alt="A picture of me" className="baba2"/>
+                    <img src="/AhmedGamal/baba2.png" alt="A picture of me" className="baba2"/>
                 </article>
             </div>
         </section>

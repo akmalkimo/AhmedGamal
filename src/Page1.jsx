@@ -5,7 +5,7 @@ function Page1(){
             <div className="page1Wrapper">
                 <h1>Hi, I am Ahmed Gamal.</h1>
                 <div className="introCard">
-                    <img src="/ahmeds-portfolio/baba.png" alt="profile-photo" className="baba"/>
+                    <img src="/AhmedGamal/baba.png" alt="profile-photo" className="baba"/>
                     <div className="imgTextWrapper">
                         <h1 className="intro textCentered">Cheif Accountant and Business Manager.</h1>
                         <div className="bttnWrapper">
